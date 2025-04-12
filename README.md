@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full stack Uber Clone**
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, Postman API**
+- 🌱 I’m currently learning **NodeJS, ExpressJS, Postman API, Docker, Kubernetes**
 
 - 🤝 I’m looking for help with **Data Structures & Algorithms**
 
