@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ExpressJS,MongoDB, Postman API, Docker, Kubernetes**
 
-- 🤝 I’m looking for help with **Data Structures & Algorithms**
+- 🤝 I’m looking for help with **DevOps Engineering **
 
 - 👨‍💻 All of my projects are available at [https://porftolio-site-seven.vercel.app/](https://porftolio-site-seven.vercel.app/)
 
