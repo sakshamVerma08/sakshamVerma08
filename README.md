@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamverma08" alt="sakshamverma08" /></a> </p>
 
-- 🔭 I’m currently working on **Full stack Uber Clone**
+- 🔭 I’m currently working on **LexConnect,Todo-App**
 
 - 🌱 I’m currently learning **ExpressJS,MongoDB, Postman API, Docker, Kubernetes**
 
