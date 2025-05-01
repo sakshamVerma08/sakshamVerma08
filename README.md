@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamverma08" alt="sakshamverma08" /></a> </p>
 
-- 🔭 I’m currently working on **LexConnect,Todo-App**
+- 🔭 I’m currently working on **LexConnect,HackSynergy,Chat Application**
 
-- 🌱 I’m currently learning **ExpressJS,MongoDB, Postman API, Docker, Kubernetes**
+- 🌱 I’m currently learning **WebSockets ,Kafka , Docker, AutoMQ**
 
-- 🤝 I’m looking for help with **DevOps Engineering **
+- 🤝 I’m looking for help with **Kafka, Docker , Websockets **
 
 - 👨‍💻 All of my projects are available at [https://porftolio-site-seven.vercel.app/](https://porftolio-site-seven.vercel.app/)
 
