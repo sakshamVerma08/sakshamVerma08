@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **LexConnect,HackSynergy,Chat Application**
 
-- 🌱 I’m currently learning **WebSockets ,Kafka , Docker, AutoMQ**
+- 🌱 I’m currently learning **WebSockets ,n8n Automation Workflows , Docker, AI RAG**
 
 - 🤝 I’m looking for help with **Kafka, Docker , Websockets **
 
