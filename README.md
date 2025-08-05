@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamverma08" alt="sakshamverma08" /></a> </p>
 
-- 🔭 I’m currently working on **LexConnect,HackSynergy,Chat Application**
+- 🔭 I’m currently working on **Fuzzie Application,RAG Implementation**
 
-- 🌱 I’m currently learning **WebSockets ,n8n Automation Workflows , Docker, AI RAG**
+- 🌱 I’m currently learning **LangChain, n8n Automation Workflows , TypeScript, AI RAG**
 
-- 🤝 I’m looking for help with **Kafka, Docker , Websockets **
+- 🤝 I’m looking for help with **AI RAG, LLM Building**
 
 - 👨‍💻 All of my projects are available at [https://porftolio-site-seven.vercel.app/](https://porftolio-site-seven.vercel.app/)
 
-- 💬 Ask me about **MERN Stack , Data Structures and Algorithms**
+- 💬 Ask me about **MERN Stack , Data Structures and Algorithms,Backend Development,AI & Automation**
 
 - 📫 How to reach me **sakshamverma1000@gmail.com**
 
