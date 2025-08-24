@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Fuzzie Application,RAG Implementation**
 
-- 🌱 I’m currently learning **LangChain, n8n Automation Workflows , TypeScript, AI RAG**
+- 🌱 I’m currently learning **Next.js , TypeScript, AI RAG**
 
-- 🤝 I’m looking for help with **AI RAG, LLM Building**
+- 🤝 I’m looking for help with **Automation ,RAG ,LLM Building**
 
 - 👨‍💻 All of my projects are available at [https://porftolio-site-seven.vercel.app/](https://porftolio-site-seven.vercel.app/)
 
