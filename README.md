@@ -47,7 +47,7 @@
 <img align = "left" src="https://devicon-website.vercel.app/api/cplusplus/original.svg" alt="C++" width="30px" style="padding-right:10px;" />
 <img align = "left" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" alt="Github" width="30px" style="padding-right:10px;"/>
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+<br /><br/><br/>
 
 #
 
