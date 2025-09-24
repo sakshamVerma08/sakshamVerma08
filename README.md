@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamverma08" alt="sakshamverma08" /></a> </p>
 
-- 🔭 I’m currently working on **Fuzzie Application,RAG Implementation**
+- 🔭 I’m currently working on **Fuzzie Application, UpdatedPortfolio, AI With Python- Harvard CS50**
 
-- 🌱 I’m currently learning **Next.js , TypeScript, AI RAG**
+- 🌱 I’m currently learning **Next.js, PostgreSQL, Vim, TypeScript, AI/ML Learning**
 
-- 🤝 I’m looking for help with **Automation ,RAG ,LLM Building**
+- 🤝 I’m looking for help with **Automation, N8N, AI Agent Building**
 
 - 👨‍💻 All of my projects are available at [https://porftolio-site-seven.vercel.app/](https://porftolio-site-seven.vercel.app/)
 
