@@ -80,11 +80,8 @@
 
 ### AI/ML & Automation
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+<img src="https://python.langchain.com/img/brand/wordmark.png" alt="LangChain" width="45" height="45"/> 
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangGraph" width="45" height="45"/>
 </p>
 
 ### Other Languages
