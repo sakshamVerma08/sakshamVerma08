@@ -5,18 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamverma08" alt="sakshamverma08" /></a> </p>
 
-- 🔭 I’m currently working on **Fuzzie Application, UpdatedPortfolio, AI With Python- Harvard CS50**
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Next.js, PostgreSQL, Vim, TypeScript, AI/ML Learning**
+- 🔭 I'm currently working on **Fuzzie Application, UpdatedPortfolio, AI With Python- Harvard CS50**
 
-- 🤝 I’m looking for help with **Automation, N8N, AI Agent Building**
+- 🌱 I'm currently learning **Next.js, PostgreSQL, Vim, TypeScript, AI/ML Learning**
+
+- 🤝 I'm looking for help with **Automation, N8N, AI Agent Building**
 
 - 👨‍💻 All of my projects are available at [https://porftolio-site-seven.vercel.app/](https://porftolio-site-seven.vercel.app/)
 
-- 💬 Ask me about **MERN Stack , Data Structures and Algorithms,Backend Development,AI & Automation**
+- 💬 Ask me about **MERN Stack, Data Structures and Algorithms, Backend Development, AI & Automation**
 
 - 📫 How to reach me **sakshamverma1000@gmail.com**
 
+- ⚡ Fun fact **I love automating boring stuff!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,33 +29,122 @@
 <a href="https://www.leetcode.com/sakshamxx2769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakshamxx2769" height="30" width="40" /></a>
 </p>
 
+## 🧰 Languages and Tools
 
-### 🧰 Languages and Tools
-<img align = "left" src="https://devicon-website.vercel.app/api/react/original.svg" alt="React" width="30px" style="padding-right:10px;"/>
-<img align = "left" src="https://devicon-website.vercel.app/api/nodejs/original.svg" alt="NodeJS" width="30px" style="padding-right:10px;"/>
-<img align = "left" src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" alt="ExpressJS" width="30px" style="padding-right:10px;" />
-<img align = "left" src="https://devicon-website.vercel.app/api/mongodb/original.svg" alt="MongoDB" width="30px" style="padding-right:10px;"/>
-<img align = "left" src="https://devicon-website.vercel.app/api/nextjs/original.svg?color=%23FFFFFF" alt="NextJS" width="30px" style="padding-right:10px;"/>
-<img align = "left" src="https://devicon-website.vercel.app/api/postgresql/original.svg" alt="PostGreSQL" width="30px" style="padding-right:10px;"/>
-<img align = "left" src="https://devicon-website.vercel.app/api/graphql/plain.svg" alt="GraphQL" width="30px" style="padding-right:10px;"/>
-<img align = "left" src="https://devicon-website.vercel.app/api/bootstrap/original.svg"  alt="Bootstrap" width="30px" style="padding-right:10px;"/>
-<img align = "left" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" alt="TailwindCSS" width="30px" style="padding-right:10px;"/>
-<img align = "left" src="https://devicon-website.vercel.app/api/docker/original.svg" alt="Docker" width="30px" style="padding-right:10px;"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align = "left" src="https://devicon-website.vercel.app/api/typescript/original.svg" alt="TypeScript" width="30px" style="padding-right:10px;"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align = "left" src="https://devicon-website.vercel.app/api/cplusplus/original.svg" alt="C++" width="30px" style="padding-right:10px;" />
-<img align = "left" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" alt="Github" width="30px" style="padding-right:10px;"/>
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br /><br/><br/>
+### Frontend Development
+<p align="left">
+<img src="https://devicon-website.vercel.app/api/react/original.svg" alt="React" width="40" height="40"/>
+<img src="https://devicon-website.vercel.app/api/nextjs/original.svg?color=%23FFFFFF" alt="NextJS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://devicon-website.vercel.app/api/typescript/original.svg" alt="TypeScript" width="40" height="40"/>
+<img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" alt="TailwindCSS" width="40" height="40"/>
+</p>
 
-#
+### Backend Development
+<p align="left">
+<img src="https://devicon-website.vercel.app/api/nodejs/original.svg" alt="NodeJS" width="40" height="40"/>
+<img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" alt="ExpressJS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="40" height="40"/>
+<img src="https://devicon-website.vercel.app/api/fastapi/original.svg" alt="FastAPI" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshamverma08&show_icons=true&locale=en&layout=compact" alt="sakshamverma08" /></p>
+### Database
+<p align="left">
+<img src="https://devicon-website.vercel.app/api/mongodb/original.svg" alt="MongoDB" width="40" height="40"/>
+<img src="https://devicon-website.vercel.app/api/postgresql/original.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshamverma08&show_icons=true&locale=en" alt="sakshamverma08" /></p>
+### APIs & Authentication
+<p align="left">
+<img src="https://devicon-website.vercel.app/api/graphql/plain.svg" alt="GraphQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamverma08&" alt="sakshamverma08" /></p>
+### DevOps & Tools
+<p align="left">
+<img src="https://devicon-website.vercel.app/api/docker/original.svg" alt="Docker" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" alt="Github" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+</p>
+
+### AI/ML & Automation
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+</p>
+
+### Other Languages
+<p align="left">
+<img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" alt="C++" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshamverma08&show_icons=true&theme=tokyonight&locale=en" alt="sakshamverma08" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamverma08&theme=tokyonight" alt="sakshamverma08" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshamverma08&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sakshamverma08" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sakshamverma08&theme=darkhub&no-frame=true&row=1&column=7" alt="sakshamverma08" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamverma08&theme=tokyo-night" alt="sakshamverma08" />
+</p>
+
+---
+
+## 💻 Featured Projects
+
+### [Project Name 1](link-to-project)
+Brief description of what this project does and the technologies used.
+
+### [Project Name 2](link-to-project)
+Brief description of what this project does and the technologies used.
+
+### [Project Name 3](link-to-project)
+Brief description of what this project does and the technologies used.
+
+---
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
