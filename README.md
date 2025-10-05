@@ -7,11 +7,11 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Fuzzie Application, UpdatedPortfolio, AI With Python- Harvard CS50**
+- 🔭 I'm currently working on **Fuzzie Application, AI Researcher Agent With langchain-python, Harvard CS50 AI With Python, Library Management System API, SignalList(stocks), **
 
-- 🌱 I'm currently learning **Next.js, PostgreSQL, Vim, TypeScript, AI/ML Learning**
+- 🌱 I'm currently learning **Next.js, PostgreSQL, Vim/NeoVim, TypeScript, AI Agents, Docker, Kubernetes, Revising Backend Concepts, Zod validations**
 
-- 🤝 I'm looking for help with **Automation, N8N, AI Agent Building**
+- 🤝 I'm looking for help with **AI Agent Building with Python**
 
 - 👨‍💻 All of my projects are available at [https://porftolio-site-seven.vercel.app/](https://porftolio-site-seven.vercel.app/)
 
@@ -125,14 +125,14 @@
 
 ## 💻 Featured Projects
 
-### [Project Name 1](link-to-project)
-Brief description of what this project does and the technologies used.
+### [Fullstack Uber Clone](https://uber-project-jade.vercel.app/)
+Revamped fullstack Uber Clone that is built from scratch using responsive UI from Tailwindcss v4. Uses MongoDB Geospatial query data to get the nearest captains, and renders them on google maps, uses socket.io to handle event exchange between client and drivers
 
-### [Project Name 2](link-to-project)
-Brief description of what this project does and the technologies used.
+### [Fuzzie Application](https://fuzzie-application.vercel.app/)
+A n8n clone project, that clones the node drag and drop functionality of N8N using React Flow. Tried to build a custom n8n where users can create automation workflows and connect their socials with ease.
 
-### [Project Name 3](link-to-project)
-Brief description of what this project does and the technologies used.
+### [LexConnect-Linkedin for Lawyers](https://lexconnect-lemon.vercel.app/)
+🏆 Winner of LexHacks 1.0 | A professional networking platform for legal professionals featuring AI-powered document simplification, pro bono services marketplace, lawyer-client matching, and community blogging. Built with PERN stack to democratize access to legal services and make complex legal documents accessible to everyone.
 
 ---
 
