@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Fuzzie Application, AI Researcher Agent With langchain-python, Harvard CS50 AI With Python, Library Management System API, SignalList(stocks), **
+- 🔭 I'm currently working on **Fuzzie Application, AI Researcher Agent With langchain-python, Harvard CS50 AI With Python**
 
 - 🌱 I'm currently learning **Next.js, PostgreSQL, Vim/NeoVim, TypeScript, AI Agents, Docker, Kubernetes, Revising Backend Concepts, Zod validations**
 
@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://porftolio-site-seven.vercel.app/](https://porftolio-site-seven.vercel.app/)
 
-- 💬 Ask me about **MERN Stack, Data Structures and Algorithms, Backend Development, AI & Automation**
+- 💬 Ask me about **MERN Stack, Data Structures and Algorithms, Backend Development, AI Agents**
 
 - 📫 How to reach me **sakshamverma1000@gmail.com**
 
-- ⚡ Fun fact **I love automating boring stuff!**
+- ⚡ Fun fact **I love pushing myself to the absolute limits!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
