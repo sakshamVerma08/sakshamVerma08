@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on **Fuzzie Application, AI Researcher Agent With langchain-python, Harvard CS50 AI With Python**
 
-- 🌱 I'm currently learning **Next.js, PostgreSQL, Vim/NeoVim, TypeScript, AI Agents, Docker, Kubernetes, Revising Backend Concepts, Zod validations**
+- 🌱 I'm currently learning **Next.js, PostgreSQL, TypeScript, AI Agents, Docker, Kubernetes, Revising Backend Concepts, Zod validations**
 
 - 🤝 I'm looking for help with **AI Agent Building with Python**
 
