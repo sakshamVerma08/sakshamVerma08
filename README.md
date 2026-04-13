@@ -13,7 +13,7 @@
 
 - 🤝 I'm looking for help with **AI Agent Building with Python , Neural Network Basics**
 
-- 👨‍💻 All of my projects are available at [https://porftolio-site-seven.vercel.app/](https://porftolio-site-seven.vercel.app/)
+<!--- 👨‍💻 All of my projects are available at [https://porftolio-site-seven.vercel.app/](https://porftolio-site-seven.vercel.app/)-->
 
 - 💬 Ask me about **MERN Stack, Data Structures and Algorithms, RAG Pipeline , Backend Development, AI Agents**
 
