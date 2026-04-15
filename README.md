@@ -9,13 +9,13 @@
 
 - 🔭 I'm currently working on **Data Structure & Algorithms, Neural Networks , AI Researcher Agent With langchain-python, Jurify with Retrieval Augmented Generation Integration. **
 
-- 🌱 I'm currently learning **Neural Networks, Backpropagation AI Agents, RAG Pipelines & Optimizations , Data Structures & Algorithms**
+- 🌱 I'm currently learning **Neural Networks, Backpropagation, Linear Regression, Machine Learning algorithms, Performance Metrics, RAG Pipelines & Optimizations , Data Structures & Algorithms**
 
-- 🤝 I'm looking for help with **AI Agent Building with Python , Neural Network Basics**
+- 🤝 I'm looking for help with **Machine Learning , Neural Network Basics**
 
 <!--- 👨‍💻 All of my projects are available at [https://porftolio-site-seven.vercel.app/](https://porftolio-site-seven.vercel.app/)-->
 
-- 💬 Ask me about **MERN Stack, Data Structures and Algorithms, RAG Pipeline , Backend Development, AI Agents**
+- 💬 Ask me about **PERN Stack, Data Structures and Algorithms, RAG Pipeline , Backend Development, Neural Networks**
 
 - 📫 How to reach me **sakshamverma1000@gmail.com**
 
