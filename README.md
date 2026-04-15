@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Data Structure & Algorithms, Neural Networks , AI Researcher Agent With langchain-python, Jurify with Retrieval Augmented Generation Integration. **
+- 🔭 I'm currently working on **Data Structure & Algorithms, Neural Networks , AI Researcher Agent With langchain-python, Jurify with Retrieval Augmented Generation Integration.**
 
 - 🌱 I'm currently learning **Neural Networks, Backpropagation, Linear Regression, Machine Learning algorithms, Performance Metrics, RAG Pipelines & Optimizations , Data Structures & Algorithms**
 
@@ -34,6 +34,7 @@
 ### Frontend Development
 <p align="left">
 <img src="https://devicon-website.vercel.app/api/react/original.svg" alt="React" width="40" height="40"/>
+  <br/>
 <img src="https://devicon-website.vercel.app/api/nextjs/original.svg?color=%23FFFFFF" alt="NextJS" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40"/>
