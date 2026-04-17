@@ -13,8 +13,6 @@
 
 - 🤝 I'm looking for help with **Machine Learning , Neural Network Basics**
 
-<!--- 👨‍💻 All of my projects are available at [https://porftolio-site-seven.vercel.app/](https://porftolio-site-seven.vercel.app/)-->
-
 - 💬 Ask me about **PERN Stack, Data Structures and Algorithms, RAG Pipeline , Backend Development, Neural Networks**
 
 - 📫 How to reach me **sakshamverma1000@gmail.com**
@@ -23,73 +21,73 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sakshamverma08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshamverma08" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/saksham_verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saksham_verma" height="30" width="40" /></a>
-<a href="https://instagram.com/sakshamxx2769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakshamxx2769" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sakshamxx2769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakshamxx2769" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sakshamverma08" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/saksham_verma" target="blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://instagram.com/sakshamxx2769" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.leetcode.com/sakshamxx2769" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>
 
 ## 🧰 Languages and Tools
 
 ### Frontend Development
 <p align="left">
-<img src="https://devicon-website.vercel.app/api/react/original.svg" alt="React" width="40" height="40"/>
-  <br/>
-<img src="https://devicon-website.vercel.app/api/nextjs/original.svg?color=%23FFFFFF" alt="NextJS" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://devicon-website.vercel.app/api/typescript/original.svg" alt="TypeScript" width="40" height="40"/>
-<img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" alt="TailwindCSS" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,bootstrap,tailwind&theme=dark" />
+  </a>
 </p>
 
 ### Backend Development
 <p align="left">
-<img src="https://devicon-website.vercel.app/api/nodejs/original.svg" alt="NodeJS" width="40" height="40"/>
-<img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" alt="ExpressJS" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="40" height="40"/>
-<img src="https://devicon-website.vercel.app/api/fastapi/original.svg" alt="FastAPI" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,nginx&theme=dark" />
+  </a>
 </p>
 
 ### Database
 <p align="left">
-<img src="https://devicon-website.vercel.app/api/mongodb/original.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://devicon-website.vercel.app/api/postgresql/original.svg" alt="PostgreSQL" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" />
+  </a>
 </p>
 
 ### APIs & Authentication
 <p align="left">
-<img src="https://devicon-website.vercel.app/api/graphql/plain.svg" alt="GraphQL" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=graphql,postman&theme=dark" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" height="48"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" height="48"/>
 </p>
 
 ### DevOps & Tools
 <p align="left">
-<img src="https://devicon-website.vercel.app/api/docker/original.svg" alt="Docker" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" alt="Github" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,bash,linux&theme=dark" />
+  </a>
 </p>
 
 ### AI/ML & Automation
 <p align="left">
-<img src="https://python.langchain.com/img/brand/wordmark.png" alt="LangChain" width="45" height="45"/> 
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangGraph" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" height="48"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" height="48"/>
 </p>
 
 ### Other Languages
 <p align="left">
-<img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" alt="C++" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,java&theme=dark" />
+  </a>
 </p>
 
 ---
@@ -134,12 +132,6 @@ A n8n clone project, that clones the node drag and drop functionality of N8N usi
 
 ### [LexConnect-Linkedin for Lawyers](https://lexconnect-lemon.vercel.app/)
 🏆 Winner of LexHacks 1.0 | A professional networking platform for legal professionals featuring AI-powered document simplification, pro bono services marketplace, lawyer-client matching, and community blogging. Built with PERN stack to democratize access to legal services and make complex legal documents accessible to everyone.
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
