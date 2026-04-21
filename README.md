@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on **Data Structure & Algorithms, Neural Networks , AI Researcher Agent With langchain-python, Jurify with Retrieval Augmented Generation Integration.**
 
-- 🌱 I'm currently learning **Neural Networks, Backpropagation, Linear Regression, Machine Learning algorithms, Performance Metrics, RAG Pipelines & Optimizations , Data Structures & Algorithms**
+- 🌱 I'm currently learning **Neural Networks, Backpropagation, NumPy Library, Linear Regression, Machine Learning algorithms, Performance Metrics, RAG Pipelines & Optimizations , Data Structures & Algorithms**
 
 - 🤝 I'm looking for help with **Machine Learning , Neural Network Basics**
 
