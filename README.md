@@ -92,6 +92,19 @@
 
 ---
 
+## 🎯 Current Focus
+
+- Data Structures & Algorithms
+- Machine Learning Fundamentals
+- Retrieval Augmented Generation (RAG)
+
+## 🔬 Exploring
+
+- Market Microstructure
+- Quantitative Trading Systems
+- Strategy Backtesting
+- ML for Financial Data
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -106,14 +119,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshamverma08&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sakshamverma08" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
+## 🧩 LeetCode Stats
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakshamverma08&theme=darkhub&no-frame=true&row=1&column=7" alt="sakshamverma08" />
+  <img src="https://leetcard.jacoblin.cool/sakshamxx2769?theme=dark&font=Karma&ext=contest" />
 </p>
 
----
+
 
 ## 📈 Contribution Graph
 <p align="center">
