@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saksham Verma</h1>
-<h3 align="center">An aspiring Software Engineer and a passionate Full Stack Developer</h3>
+<h3 align="center">Software Engineer exploring Backend Systems, Machine Learning and Quantitative Finance</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamverma08&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamverma08" /> </p>
 
