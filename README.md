@@ -7,13 +7,13 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Data Structure & Algorithms, Neural Networks , AI Researcher Agent With langchain-python, Jurify with Retrieval Augmented Generation Integration.**
+- 🔭 I'm currently working on **Data Structure & Algorithms , Jurify with Retrieval Augmented Generation Integration.**
 
-- 🌱 I'm currently learning **Neural Networks, Backpropagation, NumPy Library, Linear Regression, Machine Learning algorithms, Performance Metrics, RAG Pipelines & Optimizations , Data Structures & Algorithms**
+- 🌱 I'm currently learning **NumPy Library, Machine Learning algorithms, Performance Metrics, Production-grade RAG Pipelines along with Query Caching with Redis/Valkey, RAG Observability using Better DB**
 
-- 🤝 I'm looking for help with **Machine Learning , Neural Network Basics**
+- 🤝 I'm looking for help with **Machine Learning , Data Structures & Algorithms**
 
-- 💬 Ask me about **PERN Stack, Data Structures and Algorithms, RAG Pipeline , Backend Development, Neural Networks**
+- 💬 Ask me about **PERN Stack, Data Structures and Algorithms, RAG Pipelines ,Basic Machine Learning,  Backend Development**
 
 - 📫 How to reach me **sakshamverma1000@gmail.com**
 
